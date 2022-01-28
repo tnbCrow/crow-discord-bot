@@ -1,4 +1,4 @@
-![tnbcrow logo](assets/logo.png)
+<img src="https://raw.githubusercontent.com/tnbCrow/crow-discord-bot/main/assets/logo.png" width="250" height="250">
 
 ### Overview
 Crow Bot allows users to trade tnbc securely protected by escrow.
